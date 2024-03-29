@@ -47,7 +47,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBFaceAttributes",
             url: "None",
-            checksum: "e0dd4e6012b7eae67f35ee04ae217024b504e3422cc65451b81d8bb3a4012a33"
+            checksum: "8577dffa460b05ad54bd1d23d7c0f940302ee9874503fe0dfbe4b417816e646d"
         ),
         .target(
             name: "BNBFaceAttributes_BNBSdkCore",
