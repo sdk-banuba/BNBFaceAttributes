@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let bnbPackageVersion: Version = "1.14.1-105-gb559f9611"
+let bnbPackageVersion: Version = "1.14.1-106-g81956e5c7"
 
 let package = Package(
     name: "BNBFaceAttributes",
@@ -46,8 +46,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BNBFaceAttributes",
-            url: "https://d2cm7wtcqqw29.cloudfront.net/1.14.1-105-gb559f9611/BNBFaceAttributes.zip",
-            checksum: "31c76b4767a355f11fa8246d380f6ff700647cdceaeb7305daf4bd01cdbfc2f7"
+            url: "https://d2cm7wtcqqw29.cloudfront.net/1.14.1-106-g81956e5c7/BNBFaceAttributes.zip",
+            checksum: "afb5193d875ad23e13db065b9f3d5e81a9ea0910be50548d1f91c2dca1d52726"
         ),
         .target(
             name: "BNBFaceAttributes_BNBSdkCore",
